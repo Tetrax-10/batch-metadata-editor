@@ -13,12 +13,19 @@ Need a website, tool, or script that you've always dreamed of having, contact me
 Send friend request to @tetrax10 on Discord, I will get in touch ASAP.
 
 ## Video file naming conventions:
+
 1. Blade Runner 2049 2160p [2017]
 2. Kill Bill: Vol. 1 720p [2003]
 3. Titanic 1080p EXTENDED [1997]
 4. Fall 1080p DC [2022]
 5. Moby Dick 720p UNRATED [1998]
 6. The Good, the Bad and the Ugly 1080p REMASTERED [1966]
+
+## Output:
+
+![terminal](./assets/terminal.png)
+![movie 1](./assets/1.png)
+![movie 2](./assets/2.png)
 
 ## Installation
 
