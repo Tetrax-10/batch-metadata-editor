@@ -26,7 +26,7 @@ Need a website, tool, or script that you've always dreamed of having? contact me
 ## Installation
 
 1. Install [python](https://www.python.org/downloads/), make sure "Add python 3.xx to PATH" is checked while installing else it wont work.
-2. Download the [latest version](https://github.com/Tetrax-10/batch-metadata-editor/releases/latest) of this script
+2. Download the [latest version](https://github.com/Tetrax-10/batch-metadata-editor/releases/latest) of this script (zip file)
 3. Extract the zip and copy the `metadata-editor` folder to `C:\Program Files`
 4. Now open start menu and search for `"Edit environment variables for your account"` and click the first result
 5. Now select path and click edit, a new tab should open
@@ -47,3 +47,8 @@ python "C:\Program Files\metadata-editor\script.py"
 2. It will ask for path, so give the file or folder path as the input.
    for **batch metadata editing** give folder path. example: `D:\Media\movies`
    for **single file metadata editing** give video file (mp4 or mkv) path. example: `D:\Media\movies\Oldboy 2160p DC [2003].mkv`
+
+## Credits
+
+1. [MKVToolNix](https://mkvtoolnix.download/) for editing MKV metadata
+2. [AtomicParsley](https://github.com/wez/atomicparsley) for editing MP4 metadata
