@@ -14,13 +14,15 @@ Send friend request to @tetrax10 on Discord, I will get in touch ASAP.
 
 ## Installation
 
-1. Install python, make sure "Add python 3.xx to PATH" is checked while installing else it wont work.
+1. Install [python](https://www.python.org/downloads/), make sure "Add python 3.xx to PATH" is checked while installing else it wont work.
 2. Download the [latest version](https://github.com/Tetrax-10/batch-metadata-editor/releases/latest) of this script
 3. Extract the zip and copy the `metadata-editor` folder to `C:\Program Files`
 4. Now open start menu and search for `Edit environment variables for your account` and click the first result
 5. Now select path and click edit, a new tab should open
+   </br>
    ![environment variables tab](/assets/environment-variables-tab.png)
 6. In that new tab click `new` and paste this path `C:\Program Files\metadata-editor`, click ok, Done 🎉
+   </br>
    ![new-environment-variable](/assets/new-environment-variable.png)
 
 ## How to run it?
