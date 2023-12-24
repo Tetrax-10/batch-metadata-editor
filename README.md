@@ -1,16 +1,12 @@
 # Batch metadata editor
 
-This python script removes all metadata from mp4, mkv files and sets the title and year tag from the file name in batch.
+This python script removes all metadata from mp4 and mkv files and sets the title and year tag from the file name in batch.
 
-This is a sponsored project by [POPE3909](https://xdaforums.com/m/pope3909.5120701/)
+**This is a sponsored project by [POPE3909](https://xdaforums.com/m/pope3909.5120701/)**
 
-Need a website, tool, or script that you've always dreamed of having, contact me and I will create it for you.
+Need a website, tool, or script that you've always dreamed of having? contact me and I will create it for you.
 
-[u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10)
-
-(or)
-
-Send friend request to @tetrax10 on Discord, I will get in touch ASAP.
+[u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10) (or) Send friend request to `@tetrax10` on Discord, I will get in touch ASAP.
 
 ## Video file naming conventions:
 
@@ -32,7 +28,7 @@ Send friend request to @tetrax10 on Discord, I will get in touch ASAP.
 1. Install [python](https://www.python.org/downloads/), make sure "Add python 3.xx to PATH" is checked while installing else it wont work.
 2. Download the [latest version](https://github.com/Tetrax-10/batch-metadata-editor/releases/latest) of this script
 3. Extract the zip and copy the `metadata-editor` folder to `C:\Program Files`
-4. Now open start menu and search for `Edit environment variables for your account` and click the first result
+4. Now open start menu and search for `"Edit environment variables for your account"` and click the first result
 5. Now select path and click edit, a new tab should open
    </br>
    ![environment variables tab](/assets/environment-variables-tab.png)
@@ -48,8 +44,6 @@ Send friend request to @tetrax10 on Discord, I will get in touch ASAP.
 python "C:\Program Files\metadata-editor\script.py"
 ```
 
-2. It will ask for path, So give the file or folder path of your video(s) as the input.
-
-for **batch processing** give folder path. example: `D:\Media\movies`
-
-for single file metadata editing give video file (mp4 or mkv) path. example: `D:\Media\movies\Oldboy 2160p DC [2003]`
+2. It will ask for path, so give the file or folder path as the input.
+   for **batch metadata editing** give folder path. example: `D:\Media\movies`
+   for **single file metadata editing** give video file (mp4 or mkv) path. example: `D:\Media\movies\Oldboy 2160p DC [2003].mkv`
