@@ -2,9 +2,9 @@
 
 This python script removes all metadata from mp4, mkv files and sets the title and year tag from the file name in batch.
 
-This is a sponsored project by [xxxxxxxxxxxxxxx]()
+This is a sponsored project by [POPE3909](https://xdaforums.com/m/pope3909.5120701/)
 
-Need a website, tool, or script that you've always dreamed of having, contact me I will create it for you.
+Need a website, tool, or script that you've always dreamed of having, contact me and I will create it for you.
 
 [u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10)
 
