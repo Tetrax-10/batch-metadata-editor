@@ -6,16 +6,16 @@ This python script removes all metadata from mp4 and mkv files and sets the titl
 
 Need a website, tool, or script that you've always dreamed of having? contact me and I will create it for you.
 
-[u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10) (or) Send friend request to `@tetrax10` on Discord, I will get in touch ASAP.
+message me on reddit - [u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10) (or) Send friend request to `@tetrax10` on Discord, I will get in touch ASAP.
 
 ## Video file naming conventions:
 
 1. Blade Runner 2049 2160p [2017]
 2. Kill Bill: Vol. 1 720p [2003]
-3. Titanic 1080p EXTENDED [1997]
-4. Fall 1080p DC [2022]
-5. Moby Dick 720p UNRATED [1998]
-6. The Good, the Bad and the Ugly 1080p REMASTERED [1966]
+3. Titanic EXTENDED 1080p [1997]
+4. Fall DC 1080p [2022]
+5. Moby Dick UNRATED 720p [1998]
+6. The Good, the Bad and the Ugly REMASTERED 1080p [1966]
 
 ## Output:
 
