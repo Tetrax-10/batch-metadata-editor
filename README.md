@@ -46,7 +46,7 @@ python "C:\Program Files\metadata-editor\script.py"
 
 2. It will ask for path, so give the file or folder path as the input.
     - for **batch metadata editing** give folder path. example: `D:\Media\movies`
-    - for **single file metadata editing** give video file (mp4 or mkv) path. example: `D:\Media\movies\Oldboy 2160p DC [2003].mkv`
+    - for **single file metadata editing** give video file path (mp4 or mkv). example: `D:\Media\movies\Oldboy 2160p DC [2003].mkv`
 
 ## Credits
 
