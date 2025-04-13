@@ -6,7 +6,7 @@ This python script removes all metadata from mp4 and mkv files and sets the titl
 
 Need a website, tool, or script that you've always dreamed of having? contact me and I will create it for you.
 
-Message me on reddit - [u/Raghavan_Rave10](https://www.reddit.com/user/Raghavan_Rave10) (or) Send friend request to `@tetrax10` on Discord, I will get in touch ASAP.
+Message/Send friend request to [@tetrax10](https://discord.com/users/1040249560418750536) on Discord, I will get in touch ASAP.
 
 ## Video file naming conventions:
 
